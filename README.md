@@ -72,7 +72,7 @@
 ---
 
 <details>
-<summary>✨ Fun Facts</summary>
+✨ Fun Facts
 
 - 🏸 I enjoy **badminton & coding** side by side  
 - 🤖 Learning **AI/ML for future projects**  
