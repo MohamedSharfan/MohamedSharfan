@@ -71,14 +71,14 @@
 
 ---
 
-<details>
+
 ✨ Fun Facts
 
 - 🏸 I enjoy **badminton & coding** side by side  
 - 🤖 Learning **AI/ML for future projects**  
 - 🐳 Currently improving **API integrations + Docker skills**  
 
-</details>
+
 
 ---
 
